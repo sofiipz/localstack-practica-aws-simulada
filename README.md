@@ -37,5 +37,5 @@ La práctica se realiza sobre **Docker Desktop** utilizando **WSL (Ubuntu)** com
 
 ---
 
-## 📅 Fecha: Abril de 2025
+## Fecha: Abril de 2025
 
